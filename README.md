@@ -1,2 +1,2 @@
 # python-functions
-Showcases python functions made in Intro to Computer Science course
+Showcases python functions made in an Intro to Computer Science course
